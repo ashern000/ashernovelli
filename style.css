@@ -7,7 +7,9 @@ body{
     font-family: 'Ubuntu', sans-serif;
     box-sizing: border-box;
     height: 100vh;
-    background:green;
+    background-color: #0c0303;
+    background-image: linear-gradient(180deg, #0c0303 0%, #060c22 33%, #000000 66%, #00ff00 100%);
+
 
 }
 
